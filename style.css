@@ -9,3 +9,63 @@ body {
     font-family: Roboto, sans-serif;
 }
 
+.header, 
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    margin: 24px;
+
+}
+
+.footer {
+    margin-top: 0px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.introtext {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.introtext2 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button {
+    background: royalblue;
+  border: 1px solid royalblue;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.image1 {
+    width: 100px;
+    height: 70px;
+}
+
+.intro {
+   background-color: #1F2937;
+}
+
+.img1 {
+    width: 200px;
+}
+
+.logo1 {
+    margin-bottom: 32px;
+}
+
+.body1 {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
